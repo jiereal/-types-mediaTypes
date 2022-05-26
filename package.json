@@ -1,0 +1,24 @@
+{
+  "name": "mediatypes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiereal/mediaTypes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/jiereal/mediaTypes/issues"
+  },
+  "homepage": "https://github.com/jiereal/mediaTypes#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "request": "^2.88.2"
+  }
+}
