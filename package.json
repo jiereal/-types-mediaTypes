@@ -1,8 +1,7 @@
 {
-  "name": "mediatypes",
+  "name": "@jiereal/mediatypes",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "mediatypes declare",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/jiereal/mediaTypes.git"
   },
-  "author": "",
+  "author": "jiereal",
   "license": "ISC",
   "types": "./index.d.ts",
   "bugs": {
